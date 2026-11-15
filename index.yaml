@@ -18,6 +18,9 @@ packages:
   - name: assistant-anja
     type: assistant
     description: "Assistentin Anja, Spezialistin für die Entwicklung von AIOS-Paketen aller Typen"
+  - name: assistant-sandra
+    type: assistant
+    description: "Assistentin Sandra, entwickelt AIBOS-Pakete nach dem AI-Native SDLC Playbook, neutral gegenüber dem Host"
   - name: skill-5-8-zusammenfassung
     type: skill
     description: "Gliedert ein Dokument als 5-8-Zusammenfassung (zwei Ebenen mit je 5 bis 8 Themen) und legt sie als Memo ab"
