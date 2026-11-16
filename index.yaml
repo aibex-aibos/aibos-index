@@ -57,3 +57,6 @@ packages:
   - name: skill-schautafel
     type: skill
     description: "Schautafel: erklärende Übersichtsgrafik zu Themen in zwölf Stilen und frei wählbarer Kachelmatrix, als Bild über skill-image-generation"
+  - name: assistant-claudia
+    type: assistant
+    description: "Assistentin Claudia, begleitet ein Softwareprojekt durch das AI-native SDLC nach dem Playbook von Anthropic"
