@@ -41,7 +41,7 @@ packages:
     description: "Erstellt Bilder in Arbeitsteilung — Claude Code schreibt das Prompt-Memo und prüft, Codex (ChatGPT) erzeugt das Bild"
   - name: distribution-capricorn
     type: distribution
-    description: "Capricorn — AIBOS mit Video-Analyse, Bilderstellung, Schautafel, Capability-Tree, Abschluss mit /cleanup, der Assistentin Anja und der Regel Capricorn"
+    description: "Capricorn — AIBOS mit Video-Analyse, Bilderstellung, Schautafel, Capability-Tree, Abschluss mit /cleanup, den Assistentinnen Anja, Sandra und Claudia und der Regel Capricorn"
   - name: skill-capability-tree
     type: skill
     description: "Zeigt als Baum, welche Fähigkeiten von AIbex AIBOS in einem Projektordner zur Verfügung stehen und auf welchem Weg sie dort ankommen"
