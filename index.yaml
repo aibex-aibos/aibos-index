@@ -66,3 +66,6 @@ packages:
   - name: skill-breakdown
     type: skill
     description: "Zerlegt einen Beitrag (Transkript, Markdown, PDF) in Einzelaussagen, stuft sie nach Art, Beleg und Reichweite ein und speichert das Wissensprofil, auf Wunsch mit Meta-Ebenen"
+  - name: skill-improve
+    type: skill
+    description: "Verbesserungswünsche an Wissen, Skills und Assistenten erfassen, im IMPROVED-Modus erproben und beim Maintainer ins Konzeptprojekt sammeln"
