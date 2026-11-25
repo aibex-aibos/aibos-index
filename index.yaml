@@ -69,3 +69,6 @@ packages:
   - name: skill-improve
     type: skill
     description: "Verbesserungswünsche an Wissen, Skills und Assistenten erfassen, im IMPROVED-Modus erproben und beim Maintainer ins Konzeptprojekt sammeln"
+  - name: skill-blog-pdf
+    type: skill
+    description: "Wandelt einen Blog aus @Blog/ in ein druckfertiges PDF in @PDF/ um (macOS, Google Chrome)"
